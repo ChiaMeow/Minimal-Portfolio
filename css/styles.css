@@ -2,7 +2,10 @@
     margin: 0;
     padding: 0;
 }
-
+@font-face {
+    font-family: "Grandslang Roman";
+    src: url(/font/GrandSlang-Roman.ttf);
+}
 body {
     background: #000;
     font-family: "Neue Montreal";
